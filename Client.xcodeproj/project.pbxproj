@@ -10,13 +10,10 @@
 		0AE491A61A41C88C0046C724 /* BackForwardListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AE491A51A41C88C0046C724 /* BackForwardListViewController.swift */; };
 		0B657B461A3B9CAB005A9E43 /* Favicon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BDB95291A3B9917000F2B0F /* Favicon.swift */; };
 		0B79B17F1A3F6DD500DBECB3 /* Favicons.swift in Sources */ = {isa = PBXBuildFile; fileRef = D34DC8511A16C40C00D49B7B /* Favicons.swift */; };
-		0B79B1871A3F6DD600DBECB3 /* Favicons.swift in Sources */ = {isa = PBXBuildFile; fileRef = D34DC8511A16C40C00D49B7B /* Favicons.swift */; };
 		0B79B1881A3F6DE000DBECB3 /* Favicon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BDB95291A3B9917000F2B0F /* Favicon.swift */; };
-		0B79B1891A3F6DE000DBECB3 /* Favicon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BDB95291A3B9917000F2B0F /* Favicon.swift */; };
 		0B9E3DE71A23FBD1008A7877 /* TestPanels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B9E3DE31A23FBD1008A7877 /* TestPanels.swift */; };
 		0BA2E3FC1A69D754000581FA /* (null) in Sources */ = {isa = PBXBuildFile; };
 		0BA2E4021A69D765000581FA /* (null) in Sources */ = {isa = PBXBuildFile; };
-		0BA2E4041A69D767000581FA /* (null) in Sources */ = {isa = PBXBuildFile; };
 		0BA2E4051A69D769000581FA /* (null) in Sources */ = {isa = PBXBuildFile; };
 		0BA2E4071A69D77C000581FA /* (null) in Sources */ = {isa = PBXBuildFile; };
 		0BA2E4091A69D798000581FA /* (null) in Sources */ = {isa = PBXBuildFile; };
@@ -41,7 +38,6 @@
 		0BE108361A1B1EC700D4B712 /* TestLocking.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BE108351A1B1EC700D4B712 /* TestLocking.swift */; };
 		0BE1083A1A1B1ED200D4B712 /* Locking.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BE108391A1B1ED200D4B712 /* Locking.swift */; };
 		0BF9F8BC1A3A82CA0049A0FA /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F84B21EF1A0910F600AAB793 /* Images.xcassets */; };
-		282DA4691A68C13400A406E2 /* Clients.swift in Sources */ = {isa = PBXBuildFile; fileRef = E42CCDE21A23A6F900B794D3 /* Clients.swift */; };
 		282DA46D1A68C15100A406E2 /* SearchEngines.swift in Sources */ = {isa = PBXBuildFile; fileRef = D308E4E31A5306F500842685 /* SearchEngines.swift */; };
 		282DA4731A68C1E700A406E2 /* OpenSearch.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3FA77831A43B2CE0010CD32 /* OpenSearch.swift */; };
 		282DA4741A68C1FE00A406E2 /* OpenSearch.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3FA77831A43B2CE0010CD32 /* OpenSearch.swift */; };
@@ -50,20 +46,16 @@
 		282DA4811A697EB100A406E2 /* RestAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = D34DC8521A16C40C00D49B7B /* RestAPI.swift */; };
 		282DA4821A697EC900A406E2 /* BookmarksREST.swift in Sources */ = {isa = PBXBuildFile; fileRef = D34DC84F1A16C40C00D49B7B /* BookmarksREST.swift */; };
 		285CEE4B1A69EAF600CC1228 /* Storage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 282DA4BA1A699E0400A406E2 /* Storage.framework */; };
-		285CEE4F1A69EAFD00CC1228 /* Storage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 282DA4BA1A699E0400A406E2 /* Storage.framework */; };
 		28784D191A38CA9400021E35 /* Bookmarks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28784D181A38CA9400021E35 /* Bookmarks.swift */; };
 		28784D1A1A38CA9400021E35 /* Bookmarks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28784D181A38CA9400021E35 /* Bookmarks.swift */; };
-		28784D1B1A38CA9400021E35 /* Bookmarks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28784D181A38CA9400021E35 /* Bookmarks.swift */; };
 		28784D3E1A39BF2A00021E35 /* Bookmarks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28784D181A38CA9400021E35 /* Bookmarks.swift */; };
 		28784D451A39C48900021E35 /* Bytes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28CE83BA1A1D1D3200576538 /* Bytes.swift */; };
 		28784D491A39C48900021E35 /* Bytes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28CE83BA1A1D1D3200576538 /* Bytes.swift */; };
-		28784D4A1A39C48A00021E35 /* Bytes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28CE83BA1A1D1D3200576538 /* Bytes.swift */; };
 		28C077981A3B064000834FE5 /* CryptoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28C077971A3B064000834FE5 /* CryptoTests.swift */; };
 		28C0779A1A3B064F00834FE5 /* FxAClientTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28C077991A3B064F00834FE5 /* FxAClientTests.swift */; };
 		28C0779C1A3B065800834FE5 /* TokenServerClientTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28C0779B1A3B065800834FE5 /* TokenServerClientTests.swift */; };
 		28C0779E1A3B066000834FE5 /* RecordTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28C0779D1A3B066000834FE5 /* RecordTests.swift */; };
 		28CDA55C1A43C37C005C318C /* ProfilePrefs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BD19A661A25309B0084FBA7 /* ProfilePrefs.swift */; };
-		28CDA5641A43C37D005C318C /* ProfilePrefs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BD19A661A25309B0084FBA7 /* ProfilePrefs.swift */; };
 		28CE83C21A1D1D3200576538 /* FxAClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28CE83B81A1D1D3200576538 /* FxAClient.swift */; };
 		28CE83C31A1D1D3200576538 /* Bytes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28CE83BA1A1D1D3200576538 /* Bytes.swift */; };
 		28CE83C41A1D1D3200576538 /* ClientPayload.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28CE83BB1A1D1D3200576538 /* ClientPayload.swift */; };
@@ -83,11 +75,9 @@
 		D31A0FC71A65D6D000DC8C7E /* SearchSuggestClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = D31A0FC61A65D6D000DC8C7E /* SearchSuggestClient.swift */; };
 		D31A0FC81A65D6D000DC8C7E /* SearchSuggestClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = D31A0FC61A65D6D000DC8C7E /* SearchSuggestClient.swift */; };
 		D31A0FC91A65D6D000DC8C7E /* SearchSuggestClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = D31A0FC61A65D6D000DC8C7E /* SearchSuggestClient.swift */; };
-		D31A0FCA1A65D6D000DC8C7E /* SearchSuggestClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = D31A0FC61A65D6D000DC8C7E /* SearchSuggestClient.swift */; };
 		D34C5AF21A5E0C9800E0DF7B /* SWXMLHash.swift in Sources */ = {isa = PBXBuildFile; fileRef = D34C5AF11A5E0C9800E0DF7B /* SWXMLHash.swift */; };
 		D34C5AF31A5E0C9B00E0DF7B /* SWXMLHash.swift in Sources */ = {isa = PBXBuildFile; fileRef = D34C5AF11A5E0C9800E0DF7B /* SWXMLHash.swift */; };
 		D34C5AF41A5E0C9B00E0DF7B /* SWXMLHash.swift in Sources */ = {isa = PBXBuildFile; fileRef = D34C5AF11A5E0C9800E0DF7B /* SWXMLHash.swift */; };
-		D34C5AF51A5E0C9C00E0DF7B /* SWXMLHash.swift in Sources */ = {isa = PBXBuildFile; fileRef = D34C5AF11A5E0C9800E0DF7B /* SWXMLHash.swift */; };
 		D34DC8531A16C40C00D49B7B /* Profile.swift in Sources */ = {isa = PBXBuildFile; fileRef = D34DC84D1A16C40C00D49B7B /* Profile.swift */; };
 		D34DC8541A16C40C00D49B7B /* AccountManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = D34DC84E1A16C40C00D49B7B /* AccountManager.swift */; };
 		D34DC8551A16C40C00D49B7B /* BookmarksREST.swift in Sources */ = {isa = PBXBuildFile; fileRef = D34DC84F1A16C40C00D49B7B /* BookmarksREST.swift */; };
@@ -99,8 +89,6 @@
 		D34F86E71A1AC7DD00331EC4 /* PasswordTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = D34F86E61A1AC7DD00331EC4 /* PasswordTextField.swift */; };
 		D34F86E91A1ACD1200331EC4 /* ImageTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = D34F86E81A1ACD1200331EC4 /* ImageTextField.swift */; };
 		D35179BD1A5C6D4200E7622E /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D35179BB1A5C69FE00E7622E /* SearchViewController.swift */; };
-		D35179BF1A5C8D5F00E7622E /* SearchEngines.swift in Sources */ = {isa = PBXBuildFile; fileRef = D308E4E31A5306F500842685 /* SearchEngines.swift */; };
-		D35179C11A5C8D6800E7622E /* OpenSearch.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3FA77831A43B2CE0010CD32 /* OpenSearch.swift */; };
 		D3968F251A38FE8500CEFD3B /* TabManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3968F241A38FE8500CEFD3B /* TabManager.swift */; };
 		D3A9949C1A3686BD008AD1AC /* BrowserViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3A994951A3686BD008AD1AC /* BrowserViewController.swift */; };
 		D3A9949D1A3686BD008AD1AC /* Browser.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3A994961A3686BD008AD1AC /* Browser.swift */; };
@@ -108,7 +96,6 @@
 		D3C744CD1A687D6C004CE85D /* URIFixup.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3C744CC1A687D6C004CE85D /* URIFixup.swift */; };
 		D3C744CE1A687D6C004CE85D /* URIFixup.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3C744CC1A687D6C004CE85D /* URIFixup.swift */; };
 		D3C744CF1A687D6C004CE85D /* URIFixup.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3C744CC1A687D6C004CE85D /* URIFixup.swift */; };
-		D3C744D01A687D6C004CE85D /* URIFixup.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3C744CC1A687D6C004CE85D /* URIFixup.swift */; };
 		D3FA777B1A43B2990010CD32 /* SearchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3FA777A1A43B2990010CD32 /* SearchTests.swift */; };
 		D3FA77971A43B5390010CD32 /* OpenSearch.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3FA77831A43B2CE0010CD32 /* OpenSearch.swift */; };
 		D3FA77C41A44F9A80010CD32 /* Locales in Resources */ = {isa = PBXBuildFile; fileRef = D3FA77C31A44F9A80010CD32 /* Locales */; };
@@ -125,17 +112,10 @@
 		E41A7D4D1A1BE26700245963 /* FiraSans-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F84B223A1A0914A300AAB793 /* FiraSans-Light.ttf */; };
 		E41A7D4E1A1BE26B00245963 /* FiraSans-UltraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F84B223C1A0914A300AAB793 /* FiraSans-UltraLight.ttf */; };
 		E42CCDE31A23A6F900B794D3 /* Clients.swift in Sources */ = {isa = PBXBuildFile; fileRef = E42CCDE21A23A6F900B794D3 /* Clients.swift */; };
-		E42CCDE81A23A73D00B794D3 /* Profile.swift in Sources */ = {isa = PBXBuildFile; fileRef = D34DC84D1A16C40C00D49B7B /* Profile.swift */; };
-		E42CCDE91A23A74000B794D3 /* AccountManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = D34DC84E1A16C40C00D49B7B /* AccountManager.swift */; };
-		E42CCDEA1A23A74400B794D3 /* RestAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = D34DC8521A16C40C00D49B7B /* RestAPI.swift */; };
-		E42CCDEB1A23A76200B794D3 /* BookmarksREST.swift in Sources */ = {isa = PBXBuildFile; fileRef = D34DC84F1A16C40C00D49B7B /* BookmarksREST.swift */; };
 		E42CCDEE1A23C2C600B794D3 /* Clients.swift in Sources */ = {isa = PBXBuildFile; fileRef = E42CCDE21A23A6F900B794D3 /* Clients.swift */; };
-		E42CCDEF1A23C84700B794D3 /* FiraSans-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E41A7D421A1BDFD800245963 /* FiraSans-Regular.ttf */; };
-		E42CCDF01A23C8FC00B794D3 /* Snappy.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E4D6BEAD1A092AD300F538BD /* Snappy.framework */; };
 		E42CCE011A24C4E300B794D3 /* ExtensionUtils.swift in Sources */ = {isa = PBXBuildFile; fileRef = E42CCE001A24C4E300B794D3 /* ExtensionUtils.swift */; };
 		E42CCE021A24C4E300B794D3 /* ExtensionUtils.swift in Sources */ = {isa = PBXBuildFile; fileRef = E42CCE001A24C4E300B794D3 /* ExtensionUtils.swift */; };
 		E42CCE031A24C4E300B794D3 /* ExtensionUtils.swift in Sources */ = {isa = PBXBuildFile; fileRef = E42CCE001A24C4E300B794D3 /* ExtensionUtils.swift */; };
-		E42CCE041A24C4E300B794D3 /* ExtensionUtils.swift in Sources */ = {isa = PBXBuildFile; fileRef = E42CCE001A24C4E300B794D3 /* ExtensionUtils.swift */; };
 		E4CD9E911A6897FB00318571 /* ReaderMode.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4CD9E901A6897FB00318571 /* ReaderMode.swift */; };
 		E4CD9E9A1A68980A00318571 /* ReaderMode.js in Resources */ = {isa = PBXBuildFile; fileRef = E4CD9E991A68980A00318571 /* ReaderMode.js */; };
 		E4CD9EFC1A6D9B0900318571 /* GCDWebServer.m in Sources */ = {isa = PBXBuildFile; fileRef = E4CD9EDF1A6D9B0900318571 /* GCDWebServer.m */; };
@@ -171,8 +151,6 @@
 		E4D6BEA61A092A4700F538BD /* Login.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4D6BEA51A092A4700F538BD /* Login.xcassets */; };
 		E4D6BEB21A092D5700F538BD /* Snappy.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = E4D6BEAD1A092AD300F538BD /* Snappy.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		E4D6BEB91A0930EC00F538BD /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = E4D6BEB81A0930EC00F538BD /* LaunchScreen.xib */; };
-		E4F21A8A1A126A9100B0FAAA /* Alamofire.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F84B22301A0913F200AAB793 /* Alamofire.framework */; };
-		E4F21AA61A13C4A300B0FAAA /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4F21AA51A13C4A300B0FAAA /* Images.xcassets */; };
 		F84B21DA1A090F8100AAB793 /* ClientTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F84B21D91A090F8100AAB793 /* ClientTests.swift */; };
 		F84B22041A0910F600AAB793 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F84B21E51A0910F600AAB793 /* AppDelegate.swift */; };
 		F84B220B1A0910F600AAB793 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F84B21EF1A0910F600AAB793 /* Images.xcassets */; };
@@ -199,10 +177,6 @@
 		F84B223E1A0914A300AAB793 /* FiraSans-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F84B223B1A0914A300AAB793 /* FiraSans-SemiBold.ttf */; };
 		F84B223F1A0914A300AAB793 /* FiraSans-UltraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F84B223C1A0914A300AAB793 /* FiraSans-UltraLight.ttf */; };
 		F84B22541A0920C600AAB793 /* ShareTo.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = F84B22491A0920C600AAB793 /* ShareTo.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
-		F84B22661A09210A00AAB793 /* SendTo.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = F84B225C1A09210A00AAB793 /* SendTo.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
-		F8708D2A1A0970B40051AB07 /* ActionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8708D201A0970990051AB07 /* ActionViewController.swift */; };
-		F8708D2C1A0970B40051AB07 /* MainInterface.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F8708D221A0970990051AB07 /* MainInterface.storyboard */; };
-		F8708D2D1A0970B40051AB07 /* SendTo.entitlements in Resources */ = {isa = PBXBuildFile; fileRef = F8708D231A0970990051AB07 /* SendTo.entitlements */; };
 		F8708D2E1A0970B70051AB07 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F8708D251A0970990051AB07 /* Images.xcassets */; };
 		F8708D311A0970B70051AB07 /* ShareTo.entitlements in Resources */ = {isa = PBXBuildFile; fileRef = F8708D281A0970990051AB07 /* ShareTo.entitlements */; };
 		F8708D321A0970B70051AB07 /* ShareViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8708D291A0970990051AB07 /* ShareViewController.swift */; };
@@ -300,13 +274,6 @@
 			remoteGlobalIDString = F84B22481A0920C600AAB793;
 			remoteInfo = ShareToFirefox;
 		};
-		F84B22641A09210A00AAB793 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = F84B21B61A090F8100AAB793 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = F84B225B1A09210A00AAB793;
-			remoteInfo = SendToDevice;
-		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -331,7 +298,6 @@
 			dstSubfolderSpec = 13;
 			files = (
 				F84B22541A0920C600AAB793 /* ShareTo.appex in Embed App Extensions */,
-				F84B22661A09210A00AAB793 /* SendTo.appex in Embed App Extensions */,
 			);
 			name = "Embed App Extensions";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -460,7 +426,6 @@
 		F84B223C1A0914A300AAB793 /* FiraSans-UltraLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FiraSans-UltraLight.ttf"; sourceTree = "<group>"; };
 		F84B22431A09165600AAB793 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F84B22491A0920C600AAB793 /* ShareTo.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = ShareTo.appex; sourceTree = BUILT_PRODUCTS_DIR; };
-		F84B225C1A09210A00AAB793 /* SendTo.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = SendTo.appex; sourceTree = BUILT_PRODUCTS_DIR; };
 		F8708D201A0970990051AB07 /* ActionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionViewController.swift; sourceTree = "<group>"; };
 		F8708D211A0970990051AB07 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F8708D221A0970990051AB07 /* MainInterface.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = MainInterface.storyboard; sourceTree = "<group>"; };
@@ -496,16 +461,6 @@
 			files = (
 				285CEE4B1A69EAF600CC1228 /* Storage.framework in Frameworks */,
 				E418D0E01A25634D00CAE47A /* Alamofire.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		F84B22591A09210A00AAB793 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				285CEE4F1A69EAFD00CC1228 /* Storage.framework in Frameworks */,
-				E42CCDF01A23C8FC00B794D3 /* Snappy.framework in Frameworks */,
-				E4F21A8A1A126A9100B0FAAA /* Alamofire.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -747,7 +702,6 @@
 				F84B21BE1A090F8100AAB793 /* Client.app */,
 				F84B21D31A090F8100AAB793 /* ClientTests.xctest */,
 				F84B22491A0920C600AAB793 /* ShareTo.appex */,
-				F84B225C1A09210A00AAB793 /* SendTo.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -967,7 +921,6 @@
 			dependencies = (
 				F84B22341A09144300AAB793 /* PBXTargetDependency */,
 				F84B22521A0920C600AAB793 /* PBXTargetDependency */,
-				F84B22651A09210A00AAB793 /* PBXTargetDependency */,
 				E4D6BEB41A092D5700F538BD /* PBXTargetDependency */,
 				28CE83DD1A1D1E7C00576538 /* PBXTargetDependency */,
 			);
@@ -1011,23 +964,6 @@
 			productReference = F84B22491A0920C600AAB793 /* ShareTo.appex */;
 			productType = "com.apple.product-type.app-extension";
 		};
-		F84B225B1A09210A00AAB793 /* SendTo */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = F84B22671A09210A00AAB793 /* Build configuration list for PBXNativeTarget "SendTo" */;
-			buildPhases = (
-				F84B22581A09210A00AAB793 /* Sources */,
-				F84B22591A09210A00AAB793 /* Frameworks */,
-				F84B225A1A09210A00AAB793 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = SendTo;
-			productName = SendToDevice;
-			productReference = F84B225C1A09210A00AAB793 /* SendTo.appex */;
-			productType = "com.apple.product-type.app-extension";
-		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -1039,7 +975,7 @@
 				TargetAttributes = {
 					F84B21BD1A090F8100AAB793 = {
 						CreatedOnToolsVersion = 6.1;
-						DevelopmentTeam = 43AQ936H96;
+						DevelopmentTeam = A4QBZ46HAP;
 						SystemCapabilities = {
 							com.apple.ApplicationGroups.iOS = {
 								enabled = 1;
@@ -1051,23 +987,12 @@
 					};
 					F84B21D21A090F8100AAB793 = {
 						CreatedOnToolsVersion = 6.1;
+						DevelopmentTeam = A4QBZ46HAP;
 						TestTargetID = F84B21BD1A090F8100AAB793;
 					};
 					F84B22481A0920C600AAB793 = {
 						CreatedOnToolsVersion = 6.1;
-						DevelopmentTeam = 43AQ936H96;
-						SystemCapabilities = {
-							com.apple.ApplicationGroups.iOS = {
-								enabled = 1;
-							};
-							com.apple.Keychain = {
-								enabled = 1;
-							};
-						};
-					};
-					F84B225B1A09210A00AAB793 = {
-						CreatedOnToolsVersion = 6.1;
-						DevelopmentTeam = 43AQ936H96;
+						DevelopmentTeam = A4QBZ46HAP;
 						SystemCapabilities = {
 							com.apple.ApplicationGroups.iOS = {
 								enabled = 1;
@@ -1113,7 +1038,6 @@
 				F84B21BD1A090F8100AAB793 /* Client */,
 				F84B21D21A090F8100AAB793 /* ClientTests */,
 				F84B22481A0920C600AAB793 /* ShareTo */,
-				F84B225B1A09210A00AAB793 /* SendTo */,
 			);
 		};
 /* End PBXProject section */
@@ -1221,17 +1145,6 @@
 				F8708D311A0970B70051AB07 /* ShareTo.entitlements in Resources */,
 				F8708D2E1A0970B70051AB07 /* Images.xcassets in Resources */,
 				E41A7D4E1A1BE26B00245963 /* FiraSans-UltraLight.ttf in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		F84B225A1A09210A00AAB793 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				E42CCDEF1A23C84700B794D3 /* FiraSans-Regular.ttf in Resources */,
-				E4F21AA61A13C4A300B0FAAA /* Images.xcassets in Resources */,
-				F8708D2D1A0970B40051AB07 /* SendTo.entitlements in Resources */,
-				F8708D2C1A0970B40051AB07 /* MainInterface.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1396,31 +1309,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F84B22581A09210A00AAB793 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				0B79B1891A3F6DE000DBECB3 /* Favicon.swift in Sources */,
-				282DA4691A68C13400A406E2 /* Clients.swift in Sources */,
-				D3C744D01A687D6C004CE85D /* URIFixup.swift in Sources */,
-				E42CCDEA1A23A74400B794D3 /* RestAPI.swift in Sources */,
-				D35179C11A5C8D6800E7622E /* OpenSearch.swift in Sources */,
-				E42CCDEB1A23A76200B794D3 /* BookmarksREST.swift in Sources */,
-				E42CCDE91A23A74000B794D3 /* AccountManager.swift in Sources */,
-				E42CCDE81A23A73D00B794D3 /* Profile.swift in Sources */,
-				D31A0FCA1A65D6D000DC8C7E /* SearchSuggestClient.swift in Sources */,
-				E42CCE041A24C4E300B794D3 /* ExtensionUtils.swift in Sources */,
-				0BA2E4041A69D767000581FA /* (null) in Sources */,
-				F8708D2A1A0970B40051AB07 /* ActionViewController.swift in Sources */,
-				28784D4A1A39C48A00021E35 /* Bytes.swift in Sources */,
-				28784D1B1A38CA9400021E35 /* Bookmarks.swift in Sources */,
-				D34C5AF51A5E0C9C00E0DF7B /* SWXMLHash.swift in Sources */,
-				D35179BF1A5C8D5F00E7622E /* SearchEngines.swift in Sources */,
-				28CDA5641A43C37D005C318C /* ProfilePrefs.swift in Sources */,
-				0B79B1871A3F6DD600DBECB3 /* Favicons.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
@@ -1449,11 +1337,6 @@
 			target = F84B22481A0920C600AAB793 /* ShareTo */;
 			targetProxy = F84B22511A0920C600AAB793 /* PBXContainerItemProxy */;
 		};
-		F84B22651A09210A00AAB793 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = F84B225B1A09210A00AAB793 /* SendTo */;
-			targetProxy = F84B22641A09210A00AAB793 /* PBXContainerItemProxy */;
-		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
@@ -1475,6 +1358,7 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Jol Jol (45838RRMPA)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -1527,6 +1411,7 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Jol Jol (45838RRMPA)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				COPY_PHASE_STRIP = YES;
 				ENABLE_NS_ASSERTIONS = NO;
@@ -1561,13 +1446,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_ENTITLEMENTS = Client/Client.entitlements;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				EMBEDDED_CONTENT_CONTAINS_SWIFT = YES;
 				INFOPLIST_FILE = Client/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "";
+				PRODUCT_NAME = Client;
 				SWIFT_OBJC_BRIDGING_HEADER = "$SRCROOT/Client-Bridging-Header.h";
 				"SWIFT_OBJC_BRIDGING_HEADER[arch=*]" = "Client-Bridging-Header.h";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -1580,13 +1462,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_ENTITLEMENTS = Client/Client.entitlements;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				EMBEDDED_CONTENT_CONTAINS_SWIFT = YES;
 				INFOPLIST_FILE = Client/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "";
+				PRODUCT_NAME = Client;
 				SWIFT_OBJC_BRIDGING_HEADER = "$SRCROOT/Client-Bridging-Header.h";
 				"SWIFT_OBJC_BRIDGING_HEADER[arch=*]" = "Client-Bridging-Header.h";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -1597,7 +1476,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
@@ -1617,7 +1495,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
@@ -1642,7 +1519,7 @@
 				INFOPLIST_FILE = "$(SRCROOT)/Extensions/ShareTo/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = ShareTo;
 				PROVISIONING_PROFILE = "";
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -1658,45 +1535,7 @@
 				INFOPLIST_FILE = "$(SRCROOT)/Extensions/ShareTo/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "";
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = 1;
-			};
-			name = Release;
-		};
-		F84B22681A09210A00AAB793 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_ENTITLEMENTS = Extensions/SendTo/SendTo.entitlements;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				GCC_PREPROCESSOR_DEFINITIONS = (
-					"DEBUG=1",
-					"$(inherited)",
-				);
-				INFOPLIST_FILE = "$(SRCROOT)/Extensions/SendTo/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "";
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = 1;
-			};
-			name = Debug;
-		};
-		F84B22691A09210A00AAB793 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_ENTITLEMENTS = Extensions/SendTo/SendTo.entitlements;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				INFOPLIST_FILE = "$(SRCROOT)/Extensions/SendTo/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = ShareTo;
 				PROVISIONING_PROFILE = "";
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -1738,15 +1577,6 @@
 			buildConfigurations = (
 				F84B22561A0920C600AAB793 /* Debug */,
 				F84B22571A0920C600AAB793 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		F84B22671A09210A00AAB793 /* Build configuration list for PBXNativeTarget "SendTo" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				F84B22681A09210A00AAB793 /* Debug */,
-				F84B22691A09210A00AAB793 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
